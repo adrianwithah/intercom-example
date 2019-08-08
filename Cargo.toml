@@ -6,5 +6,7 @@ members = [
     "intercom-cli",
     "intercom-build",
     "intercom-fmt",
+    "basic/client",
+    "basic/server",
 ]
 exclude = [ "test" ]
